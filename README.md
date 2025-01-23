@@ -20,3 +20,5 @@
 El comando ps proporciona una instantánea de los procesos en ejecución. 
 Es útil para obtener información específica sobre procesos.
 
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20220521.png" alt="Descripción de la imagen" width="1100" height="700">
+<br>
