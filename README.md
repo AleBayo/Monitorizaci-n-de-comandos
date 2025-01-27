@@ -26,14 +26,15 @@ Es útil para obtener información específica sobre procesos.
 
 ### ps a
 
- Muestra los procesos de todos los usuarios que están asociados con la 
+> Muestra los procesos de todos los usuarios que están asociados con la  <br>
  terminal actual, no solo los que pertenecen al usuario que ejecuta el comando.
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223406.png" alt="Descripción de la imagen" width="700" height="300">
 
 ### ps aux
 
- 
+> Combinación de comandos que te permite obtener información detallada sobre los <br>
+procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patrón específico 
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223456.png" alt="Descripción de la imagen" width="600" height="400">
 
