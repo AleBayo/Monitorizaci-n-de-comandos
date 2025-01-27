@@ -20,6 +20,7 @@
 > El comando ps proporciona una instantánea de los procesos en ejecución.  <br>
 Es útil para obtener información específica sobre procesos.
 
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20220521.png" alt="Descripción de la imagen" width="500" height="350">
 <br>
@@ -29,18 +30,24 @@ Es útil para obtener información específica sobre procesos.
 > Muestra los procesos de todos los usuarios que están asociados con la  <br>
  terminal actual, no solo los que pertenecen al usuario que ejecuta el comando.
 
+<br>
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223406.png" alt="Descripción de la imagen" width="700" height="300">
 
 ### ps aux
 
 > Combinación de comandos que te permite obtener información detallada sobre los <br>
-procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patrón específico 
+procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patrón específico
+
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223456.png" alt="Descripción de la imagen" width="600" height="400">
 
 ### ps -C nano
 
 > Busca procesos ejecutándose con el nombre nano y los muestra en un formato más limpio y compacto
+
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223955.png" alt="Descripción de la imagen" width="500" height="200">
 
@@ -57,12 +64,16 @@ procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patr�
 > Ordena por tiempo acumulado del CPU. <br>
 Los procesos se ordenan según la cantidad de tiempo total de CPU que han usado.
 
+<br>
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20181948.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top M
 
 > Ordena por uso de memoria (RAM). <br>
 Esto muestra primero los procesos que están consumiendo más memoria física.
+
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen" width="800" height="500">
 
@@ -71,6 +82,8 @@ Esto muestra primero los procesos que están consumiendo más memoria física.
 > Ordena por uso del CPU. <br>
 Los procesos se clasifican según el porcentaje de CPU que están utilizando en ese momento.
 
+<br>
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top p
@@ -78,6 +91,7 @@ Los procesos se clasifican según el porcentaje de CPU que están utilizando en 
 > Filtra o selecciona procesos específicos por su PID. <br>
 Por ejemplo, puedes filtrar para que solo se muestre información de un proceso en particular.
 
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen" width="800" height="500">
 
@@ -86,12 +100,16 @@ Por ejemplo, puedes filtrar para que solo se muestre información de un proceso 
 > Invierte el orden de la clasificación. <br>
 Por ejemplo, si los procesos están ordenados del más alto al más bajo en consumo de CPU, esta opción invierte el orden (de menor a mayor).
 
+<br>
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top U
 
 > Muestra procesos de un usuario específico. <br>
 Puedes ingresar el nombre de usuario y filtrar los procesos para mostrar solo aquellos ejecutados por ese usuario.
+
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182319_U.png" alt="Descripción de la imagen" width="800" height="500">
 
@@ -100,12 +118,16 @@ Puedes ingresar el nombre de usuario y filtrar los procesos para mostrar solo aq
 > Salir del comando top. <br>
 Finaliza la sesión de top y regresa a la terminal.
 
+<br>
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182357_q.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top k
 
 > Mata un proceso. <br>
 Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
+
+<br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182420_k.png" alt="Descripción de la imagen" width="800" height="500">
 
@@ -122,17 +144,23 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 > Filtra y muestra solo los procesos que pertenecen a un usuario específico.
 
+<br>
+
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184807.png" alt="Descripción de la imagen" width="750" height="500">
 
 ### htop --tree 
 
 > Muestra los procesos en un formato de árbol jerárquico.
 
+<br>
+
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184825.png" alt="Descripción de la imagen" width="750" height="500">
 
 ### htop -p <PDI1, PDI2>
 
 > Filtra y muestra información únicamente sobre procesos específicos, identificados por sus PIDs.
+
+<br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen" width="750" height="500">
 
@@ -149,12 +177,16 @@ Mostrar u ocultar columnas específicas. <br>
 Configurar cómo se visualizan los procesos (por ejemplo, combinarlos por usuario). <br>
 Personalizar las métricas que se muestran en las barras de CPU y memoria.
 
+<br>
+
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200059_f2.png" alt="Descripción de la imagen" width="750" height="500">
 
 ### F3
 
 > Permite buscar procesos específicos escribiendo parte del nombre, PID u otros atributos. <br>
 Escribe el término que buscas, y htop resaltará las coincidencias en la lista de procesos en tiempo real.
+
+<br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200153_f3.png" alt="Descripción de la imagen" width="750" height="500">
 
@@ -163,18 +195,21 @@ Escribe el término que buscas, y htop resaltará las coincidencias en la lista 
 > Aplica un filtro para mostrar solo los procesos que coincidan con un término específico. <br>
 Al activarlo, escribe el término que deseas filtrar, y la lista de procesos se limitará únicamente a los que coincidan con el término.
 
+<br>
+
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200227_f4.png" alt="Descripción de la imagen" width="750" height="500">
 
-#### F5
+### F5
 
 > Cambia la visualización de los procesos para mostrarlos en formato jerárquico (árbol). <br>
 Muestra la relación entre procesos padre e hijos, indicando quién inició qué procesos. <br>
 Es útil para analizar dependencias entre procesos.
 
+<br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200253_f5.png" alt="Descripción de la imagen" width="750" height="500">
 
-#### F6
+### F6
 
 > Permite cambiar el criterio de ordenación de los procesos en la lista. <br>
 Los procesos se pueden ordenar por columnas como: <br>
@@ -184,14 +219,18 @@ PID. <br>
 Estado, entre otros. <br>
 Al presionar F6, aparece un menú donde puedes elegir la columna por la que deseas ordenar.
 
+<br>
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200312_f6.png" alt="Descripción de la imagen" width="750" height="500">
 
-#### F9
+### F9
 
 > Abre un menú para enviar señales a un proceso específico, generalmente para terminarlo. <br>
 Cuando seleccionas un proceso y presionas F9, puedes elegir qué señal enviar (por defecto, SIGTERM para solicitar al proceso que se cierre).
 SIGTERM (15): Termina el proceso de manera educada, permitiéndole limpiar recursos. <br>
 SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo como último recurso).
+
+<br>
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200346_f9.png" alt="Descripción de la imagen" width="750" height="500">
 
@@ -206,6 +245,8 @@ SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo 
 ### atop -r 
 
 > Se utiliza para leer archivos de registro previamente guardados con el comando atop en modo registro
+
+<br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20193117.png" alt="Descripción de la imagen" width="750" height="500">
  
