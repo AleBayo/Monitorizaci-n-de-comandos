@@ -136,12 +136,14 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen" width="750" height="500">
 
+ <br>
+ <br>
+
 <summary>Atajos de teclado</summary>
 
 ### F2
 
 > Abre el menú de configuración de htop, donde puedes personalizar el entorno. Algunas de las configuraciones que puedes ajustar son: <br>
-
 Cambiar los colores de la interfaz. <br>
 Mostrar u ocultar columnas específicas. <br>
 Configurar cómo se visualizan los procesos (por ejemplo, combinarlos por usuario). <br>
@@ -152,7 +154,6 @@ Personalizar las métricas que se muestran en las barras de CPU y memoria.
 ### F3
 
 > Permite buscar procesos específicos escribiendo parte del nombre, PID u otros atributos. <br>
-
 Escribe el término que buscas, y htop resaltará las coincidencias en la lista de procesos en tiempo real.
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200153_f3.png" alt="Descripción de la imagen" width="750" height="500">
@@ -160,7 +161,6 @@ Escribe el término que buscas, y htop resaltará las coincidencias en la lista 
 ### F4
 
 > Aplica un filtro para mostrar solo los procesos que coincidan con un término específico. <br>
-
 Al activarlo, escribe el término que deseas filtrar, y la lista de procesos se limitará únicamente a los que coincidan con el término.
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200227_f4.png" alt="Descripción de la imagen" width="750" height="500">
@@ -168,7 +168,6 @@ Al activarlo, escribe el término que deseas filtrar, y la lista de procesos se 
 #### F5
 
 > Cambia la visualización de los procesos para mostrarlos en formato jerárquico (árbol). <br>
-
 Muestra la relación entre procesos padre e hijos, indicando quién inició qué procesos. <br>
 Es útil para analizar dependencias entre procesos.
 
@@ -178,7 +177,6 @@ Es útil para analizar dependencias entre procesos.
 #### F6
 
 > Permite cambiar el criterio de ordenación de los procesos en la lista. <br>
-
 Los procesos se pueden ordenar por columnas como: <br>
 Uso de CPU. <br>
 Uso de memoria. <br>
