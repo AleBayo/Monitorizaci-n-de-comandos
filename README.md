@@ -350,3 +350,34 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204614.png" alt="Descripción de la imagen" width="900" height="400">
 
 </details>
+
+<details>
+
+<summary>Comandos iostat</summary>
+
+### -x
+
+> Muestra estadísticas extendidas de los dispositivos de almacenamiento, proporcionando más detalles sobre el rendimiento de los discos. <br>
+Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo está ocupado, la cantidad de operaciones por segundo, la espera de la cola de disco, y más.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205343.png" alt="Descripción de la imagen" width="900" height="400">
+
+### -d
+
+> Muestra solo estadísticas de dispositivos de almacenamiento, sin incluir información sobre la CPU.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205403.png" alt="Descripción de la imagen" width="900" height="400">
+
+### -c
+
+> Muestra solo estadísticas de la CPU, omitiendo la información sobre los discos.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205433.png" alt="Descripción de la imagen" width="900" height="400">
+ 
+</details>
