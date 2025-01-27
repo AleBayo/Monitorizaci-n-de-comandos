@@ -252,3 +252,4 @@ SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo 
  
 </details>
 
+<h1 align="center">Monitorización del almacenamiento<a name="2"></a></h1>
