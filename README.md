@@ -111,6 +111,8 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 </details>
 
+<br>
+
 <details>
 
 <summary>Comandos htop</summary>
@@ -120,19 +122,19 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 > Filtra y muestra solo los procesos que pertenecen a un usuario específico.
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184807.png" alt="Descripción de la imagen" width="800" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184807.png" alt="Descripción de la imagen" width="750" height="500">
 
 ### htop --tree 
 
 > Muestra los procesos en un formato de árbol jerárquico.
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184825.png" alt="Descripción de la imagen" width="800" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184825.png" alt="Descripción de la imagen" width="750" height="500">
 
 ### htop -p <PDI1, PDI2>
 
 > Filtra y muestra información únicamente sobre procesos específicos, identificados por sus PIDs.
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen" width="800" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen" width="750" height="500">
  
 </details>
 
