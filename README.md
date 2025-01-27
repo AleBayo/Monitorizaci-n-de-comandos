@@ -496,3 +496,6 @@ Esto es útil para identificar los servicios o aplicaciones que están esperando
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212854.png" alt="Descripción de la imagen">
 
 </details>
+
+<h1 align="center">Referencias<a name="4"></a></h1>
+
