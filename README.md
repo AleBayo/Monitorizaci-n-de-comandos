@@ -433,6 +433,68 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 <br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20211833.png" alt="Descripción de la imagen">
-
  
+</details>
+
+<br>
+
+<details>
+
+<summary>Comandos iptraf-ng</summary>
+
+### sudo iptraf-ng
+
+> Esto iniciará el programa en modo interactivo en la terminal. <br>
+Necesitarás privilegios de superusuario porque iptraf-ng necesita acceso a las interfaces de red del sistema.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212231.png" alt="Descripción de la imagen">
+
+</details>
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212231.png" alt="Descripción de la imagen">
+
+<details>
+
+<summary>Comandos netstat</summary>
+
+### netstat -a
+
+>Muestra todas las conexiones de red activas y los puertos abiertos en el sistema. <br>
+Incluye conexiones TCP y UDP tanto activas como en espera.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212754.png" alt="Descripción de la imagen">
+
+### netstat -n
+
+> Muestra las conexiones activas con direcciones IP y números de puertos numéricos, en lugar de resolver nombres de dominio o servicios. <br>
+Es útil para identificar direcciones y puertos exactos sin resolución de nombres.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212817.png" alt="Descripción de la imagen">
+
+### netstat -tp
+
+> Muestra conexiones TCP activas, junto con el proceso asociado a cada conexión. <br>
+Incluye información sobre el PID y el nombre del proceso que mantiene la conexión.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212834.png" alt="Descripción de la imagen">
+
+### netstat -l
+
+> Muestra únicamente los puertos en escucha. <br>
+Esto es útil para identificar los servicios o aplicaciones que están esperando conexiones entrantes.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212854.png" alt="Descripción de la imagen">
+
 </details>
