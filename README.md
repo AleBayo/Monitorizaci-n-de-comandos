@@ -299,7 +299,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203101_-h.png" alt="Descripción de la imagen" width="700" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203101_-h.png" alt="Descripción de la imagen" width="900" height="400">
  
 ### -t
 
@@ -307,7 +307,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203156_-t.png" alt="Descripción de la imagen" width="700" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203156_-t.png" alt="Descripción de la imagen" width="900" height="400">
 
  ### -x [Tipo]
 
@@ -315,7 +315,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203232_-x.png" alt="Descripción de la imagen" width="700" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203232_-x.png" alt="Descripción de la imagen" width="900" height="400">
  
  
 </details>
