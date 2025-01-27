@@ -253,3 +253,35 @@ SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo 
 </details>
 
 <h1 align="center">Monitorización del almacenamiento<a name="2"></a></h1>
+
+<details>
+
+<summary>Comandos free</summary>
+
+### -h
+
+> Muestra la información de la memoria en un formato no binario. <br>
+Las cantidades se presentan en KiB, MiB, GiB, o la unidad más apropiada en lugar de mostrar los valores en kilobytes sin procesar.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201831_-h.png" alt="Descripción de la imagen" width="750" height="500">
+
+### -t
+
+>Agrega una línea adicional a la salida que muestra el total combinado de todas las memorias, tanto RAM como swap.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201904_-t.png" alt="Descripción de la imagen" width="750" height="500">
+
+### -s <segundos>
+
+> Ejecuta el comando free de forma repetitiva, mostrando la salida cada [segundos] que especifiques. <br>
+Es útil para monitorear el uso de la memoria en tiempo real, con actualizaciones periódicas.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201929_-s.png" alt="Descripción de la imagen" width="750" height="500">
+ 
+</details>
