@@ -40,12 +40,9 @@ procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patr�
 
 
 
-
-
-
-
-
 ### ps -C nano
+
+> Busca procesos ejecutándose con el nombre nano y los muestra en un formato más limpio y compacto
 
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223955.png" alt="Descripción de la imagen" width="500" height="200">
