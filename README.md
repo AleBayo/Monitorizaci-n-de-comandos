@@ -420,3 +420,19 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
  
 </details>
 
+<br>
+
+<details>
+
+<summary>Comandos tcptrack</summary>
+
+### sudo tcptrack -i <nombre_interfaz>
+
+> Monitoriza las conexiones TCP en la interfaz especificada.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20211833.png" alt="Descripción de la imagen">
+
+ 
+</details>
