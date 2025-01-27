@@ -285,3 +285,37 @@ Es útil para monitorear el uso de la memoria en tiempo real, con actualizacione
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201929_-s.png" alt="Descripción de la imagen" width="700" height="400">
  
 </details>
+
+<br>
+
+<details>
+
+ <summary>Comandos df</summary>
+
+### -h
+
+> Muestra la información en un formato no binario. <br>
+Los valores del tamaño, espacio usado y espacio disponible se muestran en unidades como KB, MB, GB, etc., en lugar de bytes.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203101_-h.png" alt="Descripción de la imagen" width="700" height="400">
+ 
+### -t
+
+> Muestra el tipo de sistema de archivos además de la información habitual. <br>
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203156_-t.png" alt="Descripción de la imagen" width="700" height="400">
+
+ ### -x [Tipo]
+
+> Excluye de la salida los sistemas de archivos que coincidan con el [tipo] especificado.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203232_-x.png" alt="Descripción de la imagen" width="700" height="400">
+ 
+ 
+</details>
