@@ -265,7 +265,7 @@ Las cantidades se presentan en KiB, MiB, GiB, o la unidad más apropiada en luga
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201831_-h.png" alt="Descripción de la imagen" width="5000" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201831_-h.png" alt="Descripción de la imagen" width="500" height="400">
 
 ### -t
 
