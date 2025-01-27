@@ -316,6 +316,37 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 <br>
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203232_-x.png" alt="Descripción de la imagen" width="900" height="400">
- 
- 
+
+</details>
+
+<br>
+
+<details>
+
+<summary>Comandos du</summary>
+
+### -h
+
+> Muestra el espacio ocupado de manera legible.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204454.png" alt="Descripción de la imagen" width="900" height="400">
+
+### -s
+
+> Muestra el total de espacio usado por un directorio (sin desglosar).
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204518.png" alt="Descripción de la imagen" width="900" height="400">
+
+### -d [nivel]
+
+> Muestra el espacio ocupado por los directorios hasta el nivel de profundidad especificado.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204614.png" alt="Descripción de la imagen" width="900" height="400">
+
 </details>
