@@ -22,7 +22,7 @@ Es útil para obtener información específica sobre procesos.
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20220521.png" alt="Descripción de la imagen" width="500" height="350">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20220521.png" alt="Descripción de la imagen">
 <br>
 
 ### ps a
@@ -32,7 +32,7 @@ Es útil para obtener información específica sobre procesos.
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223406.png" alt="Descripción de la imagen" width="700" height="300">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223406.png" alt="Descripción de la imagen">
 
 ### ps aux
 
@@ -41,7 +41,7 @@ procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patr�
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223456.png" alt="Descripción de la imagen" width="600" height="400">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223456.png" alt="Descripción de la imagen">
 
 ### ps -C nano
 
@@ -49,7 +49,7 @@ procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patr�
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223955.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-23%20223955.png" alt="Descripción de la imagen">
 
 </details>
 
@@ -66,7 +66,7 @@ Los procesos se ordenan según la cantidad de tiempo total de CPU que han usado.
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20181948.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20181948.png" alt="Descripción de la imagen">
 
 ### Top M
 
@@ -75,7 +75,7 @@ Esto muestra primero los procesos que están consumiendo más memoria física.
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen">
 
 ### Top P
 
@@ -84,7 +84,7 @@ Los procesos se clasifican según el porcentaje de CPU que están utilizando en 
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen">
 
 ### Top p
 
@@ -93,7 +93,7 @@ Por ejemplo, puedes filtrar para que solo se muestre información de un proceso 
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen">
 
 ### Top R
 
@@ -102,7 +102,7 @@ Por ejemplo, si los procesos están ordenados del más alto al más bajo en cons
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen">
 
 ### Top U
 
@@ -111,7 +111,7 @@ Puedes ingresar el nombre de usuario y filtrar los procesos para mostrar solo aq
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182319_U.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182319_U.png" alt="Descripción de la imagen">
 
 ### Top q
 
@@ -120,7 +120,7 @@ Finaliza la sesión de top y regresa a la terminal.
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182357_q.png" alt="Descripción de la imagen" width="800" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182357_q.png" alt="Descripción de la imagen">
 
 ### Top k
 
@@ -129,7 +129,7 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182420_k.png" alt="Descripción de la imagen" width="800" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182420_k.png" alt="Descripción de la imagen">
 
 </details>
 
@@ -146,7 +146,7 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184807.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184807.png" alt="Descripción de la imagen">
 
 ### htop --tree 
 
@@ -154,7 +154,7 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184825.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20184825.png" alt="Descripción de la imagen">
 
 ### htop -p <PDI1, PDI2>
 
@@ -162,7 +162,7 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen">
 
  <br>
  <br>
@@ -179,7 +179,7 @@ Personalizar las métricas que se muestran en las barras de CPU y memoria.
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200059_f2.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200059_f2.png" alt="Descripción de la imagen">
 
 ### F3
 
@@ -188,7 +188,7 @@ Escribe el término que buscas, y htop resaltará las coincidencias en la lista 
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200153_f3.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200153_f3.png" alt="Descripción de la imagen">
 
 ### F4
 
@@ -197,7 +197,7 @@ Al activarlo, escribe el término que deseas filtrar, y la lista de procesos se 
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200227_f4.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200227_f4.png" alt="Descripción de la imagen">
 
 ### F5
 
@@ -207,7 +207,7 @@ Es útil para analizar dependencias entre procesos.
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200253_f5.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200253_f5.png" alt="Descripción de la imagen">
 
 ### F6
 
@@ -221,7 +221,7 @@ Al presionar F6, aparece un menú donde puedes elegir la columna por la que dese
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200312_f6.png" alt="Descripción de la imagen" width="750" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200312_f6.png" alt="Descripción de la imagen">
 
 ### F9
 
@@ -232,7 +232,7 @@ SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo 
 
 <br>
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200346_f9.png" alt="Descripción de la imagen" width="750" height="500">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200346_f9.png" alt="Descripción de la imagen">
 
 </details>
 
@@ -248,7 +248,7 @@ SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo 
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20193117.png" alt="Descripción de la imagen" width="750" height="500">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20193117.png" alt="Descripción de la imagen">
  
 </details>
 
@@ -267,7 +267,7 @@ Las cantidades se presentan en KiB, MiB, GiB, o la unidad más apropiada en luga
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201831_-h.png" alt="Descripción de la imagen" width="700" height="300">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201831_-h.png" alt="Descripción de la imagen">
 
 ### -t
 
@@ -275,7 +275,7 @@ Las cantidades se presentan en KiB, MiB, GiB, o la unidad más apropiada en luga
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201904_-t.png" alt="Descripción de la imagen" width="700" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201904_-t.png" alt="Descripción de la imagen">
 
 ### -s <segundos>
 
@@ -284,7 +284,7 @@ Es útil para monitorear el uso de la memoria en tiempo real, con actualizacione
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201929_-s.png" alt="Descripción de la imagen" width="700" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20201929_-s.png" alt="Descripción de la imagen">
  
 </details>
 
@@ -301,7 +301,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203101_-h.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203101_-h.png" alt="Descripción de la imagen">
  
 ### -t
 
@@ -309,7 +309,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203156_-t.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203156_-t.png" alt="Descripción de la imagen">
 
  ### -x [Tipo]
 
@@ -317,7 +317,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203232_-x.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20203232_-x.png" alt="Descripción de la imagen">
 
 </details>
 
@@ -333,7 +333,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204454.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204454.png" alt="Descripción de la imagen">
 
 ### -s
 
@@ -341,7 +341,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204518.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204518.png" alt="Descripción de la imagen"">
 
 ### -d [nivel]
 
@@ -349,7 +349,7 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204614.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20204614.png" alt="Descripción de la imagen">
 
 </details>
 
@@ -366,7 +366,7 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205343.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205343.png" alt="Descripción de la imagen">
 
 ### -d
 
@@ -374,7 +374,7 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205403.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205403.png" alt="Descripción de la imagen">
 
 ### -c
 
@@ -382,7 +382,7 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205433.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205433.png" alt="Descripción de la imagen">
  
 </details>
 
