@@ -135,7 +135,81 @@ Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 > Filtra y muestra información únicamente sobre procesos específicos, identificados por sus PIDs.
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20185010.png" alt="Descripción de la imagen" width="750" height="500">
- 
+
+<summary>Atajos de teclado</summary>
+
+### F2
+
+> Abre el menú de configuración de htop, donde puedes personalizar el entorno. Algunas de las configuraciones que puedes ajustar son: <br>
+
+Cambiar los colores de la interfaz. <br>
+Mostrar u ocultar columnas específicas. <br>
+Configurar cómo se visualizan los procesos (por ejemplo, combinarlos por usuario). <br>
+Personalizar las métricas que se muestran en las barras de CPU y memoria.
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200059_f2.png" alt="Descripción de la imagen" width="750" height="500">
+
+### F3
+
+> Permite buscar procesos específicos escribiendo parte del nombre, PID u otros atributos. <br>
+
+Escribe el término que buscas, y htop resaltará las coincidencias en la lista de procesos en tiempo real.
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200153_f3.png" alt="Descripción de la imagen" width="750" height="500">
+
+### F4
+
+> Aplica un filtro para mostrar solo los procesos que coincidan con un término específico. <br>
+
+Al activarlo, escribe el término que deseas filtrar, y la lista de procesos se limitará únicamente a los que coincidan con el término.
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200227_f4.png" alt="Descripción de la imagen" width="750" height="500">
+
+#### F5
+
+> Cambia la visualización de los procesos para mostrarlos en formato jerárquico (árbol). <br>
+
+Muestra la relación entre procesos padre e hijos, indicando quién inició qué procesos. <br>
+Es útil para analizar dependencias entre procesos.
+
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200253_f5.png" alt="Descripción de la imagen" width="750" height="500">
+
+#### F6
+
+> Permite cambiar el criterio de ordenación de los procesos en la lista. <br>
+
+Los procesos se pueden ordenar por columnas como: <br>
+Uso de CPU. <br>
+Uso de memoria. <br>
+PID. <br>
+Estado, entre otros. <br>
+Al presionar F6, aparece un menú donde puedes elegir la columna por la que deseas ordenar.
+
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200312_f6.png" alt="Descripción de la imagen" width="750" height="500">
+
+#### F9
+
+> Abre un menú para enviar señales a un proceso específico, generalmente para terminarlo. <br>
+Cuando seleccionas un proceso y presionas F9, puedes elegir qué señal enviar (por defecto, SIGTERM para solicitar al proceso que se cierre).
+SIGTERM (15): Termina el proceso de manera educada, permitiéndole limpiar recursos. <br>
+SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo como último recurso).
+
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20200346_f9.png" alt="Descripción de la imagen" width="750" height="500">
+
 </details>
 
+<br>
+
+<details>
+
+ <summary>Comando atop</summary>
+
+### atop -r 
+
+> Se utiliza para leer archivos de registro previamente guardados con el comando atop en modo registro
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20193117.png" alt="Descripción de la imagen" width="750" height="500">
+ 
+</details>
 
