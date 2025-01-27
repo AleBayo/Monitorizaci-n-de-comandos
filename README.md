@@ -400,7 +400,7 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210523.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210523.png" alt="Descripción de la imagen" width="500" height="400">
 
 ### sudo tcpdump -i <nombre_interfaz>
 
@@ -408,7 +408,7 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210636.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210636.png" alt="Descripción de la imagen" width="500" height="400">
 
 ### sudo tcpdump -i <nombre_interfaz>
 
@@ -416,7 +416,7 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210709.png" alt="Descripción de la imagen" width="900" height="400">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210709.png" alt="Descripción de la imagen" width="500" height="400">
  
 </details>
 
