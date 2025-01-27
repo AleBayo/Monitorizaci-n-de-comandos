@@ -54,42 +54,58 @@ procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patr�
 
 ### Top T
 
+> Ordena por tiempo acumulado del CPU. <br>
+Los procesos se ordenan según la cantidad de tiempo total de CPU que han usado.
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20181948.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top M
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen" width="800" height="500">
+> Ordena por uso de memoria (RAM). <br>
+Esto muestra primero los procesos que están consumiendo más memoria física.
 
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top P
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen" width="800" height="500">
+> Ordena por uso del CPU. <br>
+Los procesos se clasifican según el porcentaje de CPU que están utilizando en ese momento.
 
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top p
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen" width="800" height="500">
+> Filtra o selecciona procesos específicos por su PID. <br>
+Por ejemplo, puedes filtrar para que solo se muestre información de un proceso en particular.
 
+
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top R
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen" width="800" height="500">
+> Invierte el orden de la clasificación. <br>
+Por ejemplo, si los procesos están ordenados del más alto al más bajo en consumo de CPU, esta opción invierte el orden (de menor a mayor).
 
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top U
 
+> Muestra procesos de un usuario específico. <br>
+Puedes ingresar el nombre de usuario y filtrar los procesos para mostrar solo aquellos ejecutados por ese usuario.
+
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182319_U.png" alt="Descripción de la imagen" width="800" height="500">
-
-
 
 ### Top q
 
+> Salir del comando top. <br>
+Finaliza la sesión de top y regresa a la terminal.
 
 <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182357_q.png" alt="Descripción de la imagen" width="800" height="500">
 
-
-
 ### Top k
+
+> Mata un proceso. <br>
+Se te pedirá ingresar el PID de un proceso que quieras finalizar manualmente.
 
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182420_k.png" alt="Descripción de la imagen" width="800" height="500">
 
