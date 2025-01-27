@@ -351,6 +351,8 @@ Los valores del tamaño, espacio usado y espacio disponible se muestran en unida
 
 </details>
 
+<br>
+
 <details>
 
 <summary>Comandos iostat</summary>
