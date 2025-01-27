@@ -252,6 +252,8 @@ SIGKILL (9): Fuerza la terminación inmediata del proceso (se recomienda usarlo 
  
 </details>
 
+<br>
+
 <h1 align="center">Monitorización del almacenamiento<a name="2"></a></h1>
 
 <details>
@@ -383,3 +385,38 @@ Incluye métricas adicionales como el porcentaje de tiempo que el dispositivo es
  <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20205433.png" alt="Descripción de la imagen" width="900" height="400">
  
 </details>
+
+<br>
+
+<h1 align="center">Monitorización de la red<a name="3"></a></h1>
+
+<details>
+
+<summary>Comandos tcpdump</summary>
+
+### sudo tcpdump
+
+> Captura el tráfico de todas las interfaces.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210523.png" alt="Descripción de la imagen" width="900" height="400">
+
+### sudo tcpdump -i <nombre_interfaz>
+
+> Especifica la interfaz de red para capturar.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210636.png" alt="Descripción de la imagen" width="900" height="400">
+
+### sudo tcpdump -i <nombre_interfaz>
+
+> Filtra por puerto específico.
+
+<br>
+
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20210709.png" alt="Descripción de la imagen" width="900" height="400">
+ 
+</details>
+
