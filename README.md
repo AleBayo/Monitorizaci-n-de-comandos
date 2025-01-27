@@ -54,44 +54,44 @@ procesos en ejecución y, al mismo tiempo, filtrar esos procesos según un patr�
 
 ### Top T
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20181948.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20181948.png" alt="Descripción de la imagen" width="800" height="500">
 
 ### Top M
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182044_M.png" alt="Descripción de la imagen" width="800" height="500">
 
 
 ### Top P
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182150_%20P.png" alt="Descripción de la imagen" width="800" height="500">
 
 
 ### Top p
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182222_p.png" alt="Descripción de la imagen" width="800" height="500">
 
 
 ### Top R
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182255_R.png" alt="Descripción de la imagen" width="800" height="500">
 
 
 ### Top U
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182319_U.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182319_U.png" alt="Descripción de la imagen" width="800" height="500">
 
 
 
 ### Top q
 
 
-<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182357_q.png" alt="Descripción de la imagen" width="500" height="200">
+<img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182357_q.png" alt="Descripción de la imagen" width="800" height="500">
 
 
 
 ### Top k
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182420_k.png" alt="Descripción de la imagen" width="500" height="200">
+ <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20182420_k.png" alt="Descripción de la imagen" width="800" height="500">
 
 </details>
 
