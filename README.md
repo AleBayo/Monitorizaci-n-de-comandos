@@ -455,8 +455,6 @@ Necesitarás privilegios de superusuario porque iptraf-ng necesita acceso a las 
 
 <br>
 
- <img src="https://github.com/AleBayo/Monitorizaci-n-de-comandos/blob/main/Captura%20de%20pantalla%202025-01-27%20212231.png" alt="Descripción de la imagen">
-
 <details>
 
 <summary>Comandos netstat</summary>
